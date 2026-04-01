@@ -1,0 +1,15 @@
+{
+  "name": "vgallery-separate-admin",
+  "version": "10.0.0",
+  "description": "V. Gallery - E-commerce with Separate Admin URL",
+  "scripts": {
+    "build": "echo 'No build step required'"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.0",
+    "bcryptjs": "^2.4.3"
+  },
+  "devDependencies": {
+    "@netlify/functions": "^2.6.0"
+  }
+}
